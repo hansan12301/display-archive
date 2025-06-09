@@ -1,0 +1,1458 @@
+[
+	{
+		"generation": 1,
+		"display_name": "",
+		"release": "2007. 6. 29",
+		"discontinuance": "2008. 6. 9",
+		"name": "iPhone",
+		"size_inch": 3.5,
+		"resolution": "480*320",
+		"ppi": 163,
+		"marketing": [
+		"혁명적이며 마법과도 같은 제품"
+		],
+		"description_kr": [
+		"-"
+		],
+		"description_en": [
+		"3.5-inch (diagonal) widescreen Multi-Touch display",
+		"480-by-320-pixel resolution at 163 ppi"
+		]
+	},
+	{
+		"generation": 2,
+		"display_name": "",
+		"release": "2008. 7. 11",
+		"discontinuance": "2010. 8. 9",
+		"name": "iPhone 3G",
+		"size_inch": 3.5,
+		"resolution": "480*320",
+		"ppi": 163,
+		"marketing": [
+		"iPhone shows off your content — music, movies, TV shows, and more — on a beautiful 3.5-inch display."
+		],
+		"description_kr": [
+		"-"
+		],
+		"description_en": [
+		"3.5-inch (diagonal) widescreen Multi-Touch display",
+		"480-by-320-pixel resolution at 163 ppi"
+		]
+	},
+	{
+		"generation": 3,
+		"display_name": "",
+		"release": "2009. 6. 19",
+		"discontinuance": "2012. 9. 12",
+		"name": "iPhone 3GS",
+		"size_inch": 3.5,
+		"resolution": "480*320",
+		"ppi": 163,
+		"marketing": [
+		"Improvements over its predecessor's screen include 24-bit color emulation (18-bit color display plus dithering) for a more color rich display."
+		],
+		"description_kr": [
+		"8.9cm(대각선) 와이드스크린 Multi-Touch 디스플레이",
+		"2.54cm당 163 픽셀인 480 x 320 픽셀 해상도"
+		],
+		"description_en": [
+		"3.5-inch (diagonal) widescreen Multi-Touch display",
+		"480-by-320-pixel resolution at 163 ppi"
+		]
+	},
+	{
+		"generation": 4,
+		"display_name": "Retina display",
+		"release": "2010. 6. 24",
+		"discontinuance": "2013. 9. 10",
+		"name": "iPhone 4",
+		"size_inch": 3.5,
+		"resolution": "960*640",
+		"ppi": 326,
+		"marketing": [
+		"The Retina display on iPhone 4 is the sharpest, most vibrant, highest-resolution phone screen ever, with four times the pixel count of previous iPhone models. In fact, the pixel density is so high that the human eye is unable to distinguish individual pixels. Which makes text amazingly crisp and images stunningly sharp."
+		],
+		"description_kr": [
+		"Retina 디스플레이",
+		"8.9cm(대각선) 와이드스크린 Multi-Touch 디스플레이",
+		"2.54cm당 326 픽셀인 960 x 640 해상도",
+		"800:1 명암비 (일반)",
+		"500cd/m2 최대 밝기 (일반)"
+		],
+		"description_en": [
+		"Retina display",
+		"3.5-inch (diagonal) widescreen Multi-Touch display",
+		"960-by-640-pixel resolution at 326 ppi",
+		"800:1 contrast ratio (typical)",
+		"500 cd/m2 max brightness (typical)"
+		]
+	},
+	{
+		"generation": 5,
+		"display_name": "Retina display",
+		"release": "2011. 10. 14",
+		"discontinuance": "2014. 9. 9",
+		"name": "iPhone 4S",
+		"size_inch": 3.5,
+		"resolution": "960*640",
+		"ppi": 326,
+		"marketing": [
+		"The sharpest, most vibrant thing you’ll see on iPhone 4S is everything. The Retina display is the highest-resolution phone screen ever. In fact, the pixel density is so high that the human eye is unable to distinguish individual pixels. But without a doubt, you’ll notice crisp text, sharp graphics, and stunning images. It’s more remarkable than the printed page. And you’ll be completely absorbed."
+		],
+		"description_kr": [
+		"Retina 디스플레이",
+		"3.5형(대각선) 와이드스크린 Multi-Touch 디스플레이",
+		"2.54cm당 326 픽셀인 960 x 640 픽셀 해상도",
+		"800:1 명암비(일반)",
+		"500 cd/m2 최대 밝기(일반)"
+		],
+		"description_en": [
+		"Retina display",
+		"3.5-inch (diagonal) widescreen Multi-Touch display",
+		"960-by-640-pixel resolution at 326 ppi",
+		"800:1 contrast ratio (typical)",
+		"500 cd/m2 max brightness (typical)"
+		]
+	},
+	{
+		"generation": 6,
+		"display_name": "Retina display",
+		"release": "2012. 9. 21",
+		"discontinuance": "2013. 9. 10",
+		"name": "iPhone 5",
+		"size_inch": 4.0,
+		"resolution": "1136*640",
+		"ppi": 326,
+		"marketing": [],
+		"description_kr": [
+		"Retina 디스플레이",
+		"4형(대각선) 와이드스크린 Multi-Touch 디스플레이",
+		"2.54cm당 326 픽셀 1136 x 640 픽셀 해상도",
+		"800:1 명암비(일반)",
+		"500cd/m2 최대 밝기(일반)"
+		],
+		"description_en": [
+		"Retina display",
+		"4-inch (diagonal) widescreen Multi-Touch display",
+		"1136-by-640-pixel resolution at 326 ppi",
+		"800:1 contrast ratio (typical)",
+		"500 cd/m2 max brightness (typical)"
+		]
+	},
+	{
+		"generation": 7,
+		"display_name": "Retina display",
+		"release": "2013. 9. 20",
+		"discontinuance": "2015. 9. 9",
+		"name": "iPhone 5c",
+		"size_inch": 4.0,
+		"resolution": "1136*640",
+		"ppi": 326,
+		"marketing": [],
+		"description_kr": [
+		"Retina 디스플레이",
+		"4형(대각선) 와이드스크린 Multi-Touch 디스플레이",
+		"2.54cm당 326 픽셀인 1136 x 640 픽셀 해상도",
+		"800:1 명암비(일반)",
+		"500cd/m2 최대 밝기(일반)",
+		"풀 sRGB 표준"
+		],
+		"description_en": [
+		"Retina display",
+		"4-inch (diagonal) widescreen Multi-Touch display",
+		"1136-by-640-pixel resolution at 326 ppi",
+		"800:1 contrast ratio (typical)",
+		"500 cd/m2 max brightness (typical)"
+		]
+	},
+	{
+		"generation": 7,
+		"display_name": "Retina display",
+		"release": "2013. 9. 20",
+		"discontinuance": "2016. 3. 21",
+		"name": "iPhone 5s",
+		"size_inch": 4.0,
+		"resolution": "1136*640",
+		"ppi": 326,
+		"marketing": [
+		"A7 supports OpenGL ES version 3.0 to deliver the kind of detailed graphics and complex visual effects once possible only on Mac computers, PCs, and gaming consoles. The difference is amazing. Take the imaginary worlds in games, for instance. Textures and shadows look more true to life. Sunlight reflects off the water. The whole experience feels much more realistic."
+		],
+		"description_kr": [
+		"Retina 디스플레이",
+		"4형(대각선) 와이드스크린 Multi-Touch 디스플레이",
+		"2.54cm당 326 픽셀인 1136 x 640 픽셀 해상도",
+		"800:1 명암비(일반)",
+		"500cd/m2 최대 밝기(일반)",
+		"풀 sRGB 표준"
+		],
+		"description_en": [
+		"Retina display",
+		"4-inch (diagonal) widescreen Multi-Touch display",
+		"1136-by-640-pixel resolution at 326 ppi",
+		"800:1 contrast ratio (typical)",
+		"500 cd/m2 max brightness (typical)"
+		]
+	},
+	{
+		"generation": 8,
+		"display_name": "Retina HD display",
+		"release": "2014. 9. 19",
+		"discontinuance": "2016. 9. 7",
+		"name": "iPhone 6",
+		"size_inch": 4.7,
+		"resolution": "1334*750",
+		"ppi": 326,
+		"marketing": [
+		"Bigger than bigger"
+		],
+		"description_kr": [
+		"Retina HD 디스플레이",
+		"4.7형(대각선) LED 백라이트 와이드스크린 Multi-Touch 디스플레이(IPS 기술)",
+		"1334 x 750 픽셀 해상도(326ppi)",
+		"1400:1 명암비(일반)",
+		"500cd/m2 최대 밝기(일반)",
+		"풀 sRGB 표준",
+		"광시야각 시청을 위한 듀얼 도메인 픽셀"
+		],
+		"description_en": [
+		"Retina HD display",
+		"4.7-inch (diagonal) LED-backlit widescreen Multi‑Touch display with IPS technology",
+		"1334-by-750-pixel resolution at 326 ppi",
+		"1400:1 contrast ratio (typical)",
+		"500 cd/m2 max brightness (typical)",
+		"Full sRGB standard",
+		"Dual-domain pixels for wider viewing angles"
+		]
+	},
+	{
+		"generation": 8,
+		"display_name": "Retina HD display",
+		"release": "2014. 9. 19",
+		"discontinuance": "2016. 9. 7",
+		"name": "iPhone 6 Plus",
+		"size_inch": 5.5,
+		"resolution": "1920*1080",
+		"ppi": 401,
+		"marketing": [],
+		"description_kr": [
+		"Retina HD 디스플레이",
+		"5.5형(대각선) LED 백라이트 와이드스크린 Multi-Touch 디스플레이(IPS 기술)",
+		"1920 x 1080 픽셀 해상도(401ppi)",
+		"1300:1 명암비(일반)",
+		"500cd/m2 최대 밝기(일반)",
+		"풀 sRGB 표준",
+		"광시야각 시청을 위한 듀얼 도메인 픽셀"
+		],
+		"description_en": [
+		"Retina HD display",
+		"5.5-inch (diagonal) LED-backlit widescreen Multi‑Touch display with IPS technology",
+		"1920-by-1080-pixel resolution at 401 ppi",
+		"1300:1 contrast ratio (typical)",
+		"500 cd/m2 max brightness (typical)",
+		"Full sRGB standard",
+		"Dual-domain pixels for wider viewing angles"
+		]
+	},
+	{
+		"generation": 9,
+		"display_name": "Retina HD display",
+		"release": "2015. 9. 25",
+		"discontinuance": "2018. 9. 12",
+		"name": "iPhone 6s",
+		"size_inch": 4.7,
+		"resolution": "1334*750",
+		"ppi": 326,
+		"marketing": [
+		"The only thing that is changed is all."
+		],
+		"description_kr": [
+		"3D Touch를 자랑하는 Retina HD 디스플레이",
+		"4.7형(대각선) 와이드스크린 LCD Multi‑Touch 디스플레이(IPS 기술)",
+		"1334 x 750 픽셀 해상도(326ppi)",
+		"1400:1 명암비(일반)",
+		"500cd/m2 최대 밝기(일반)",
+		"풀 sRGB 표준",
+		"광시야각을 위한 듀얼 도메인 픽셀"
+		],
+		"description_en": [
+		"Retina HD display with 3D",
+		"Touch  4.7-inch (diagonal) LED-backlit widescreen",
+		"1334-by-750-pixel resolution at 326 ppi",
+		"1400:1 contrast ratio (typical)",
+		"500 cd/m2 max brightness (typical)",
+		"Full sRGB standard",
+		"Dual-domain pixels for wide viewing angles"
+		]
+	},
+	{
+		"generation": 9,
+		"display_name": "Retina HD display",
+		"release": "2015. 9. 25",
+		"discontinuance": "2018. 9. 12",
+		"name": "iPhone 6s Plus",
+		"size_inch": 5.5,
+		"resolution": "1920*1080",
+		"ppi": 401,
+		"marketing": [],
+		"description_kr": [
+		"3D Touch를 자랑하는 Retina HD 디스플레이",
+		"5.5형(대각선) 와이드스크린 LCD Multi‑Touch 디스플레이(IPS 기술)",
+		"1920 x 1080 픽셀 해상도(401ppi)",
+		"1300:1 명암비(일반)",
+		"500cd/m2 최대 밝기(일반)",
+		"풀 sRGB 표준",
+		"광시야각을 위한 듀얼 도메인 픽셀"
+		],
+		"description_en": [
+		"Retina HD display with 3D Touch",
+		"5.5-inch (diagonal) LED-backlit widescreen",
+		"1920-by-1080-pixel resolution at 401 ppi",
+		"1300:1 contrast ratio (typical)",
+		"500 cd/m2 max brightness (typical)",
+		"Full sRGB standard",
+		"Dual-domain pixels for wide viewing angles"
+		]
+	},
+	{
+		"generation": 10,
+		"display_name": "Retina HD display",
+		"release": "2016. 9. 16",
+		"discontinuance": "2019. 9. 10",
+		"name": "iPhone 7",
+		"size_inch": 4.7,
+		"resolution": "1334*750",
+		"ppi": 326,
+		"marketing": [
+		"Retina HD Display, The brightest, most colorful iPhone display yet."
+		],
+		"description_kr": [
+		"Retina HD 디스플레이",
+		"4.7형(대각선) 와이드스크린 LCD",
+		"Multi‑Touch 디스플레이(IPS 기술)",
+		"1334 x 750 픽셀 해상도(326ppi)",
+		"1400:1 명암비(일반)",
+		"와이드 컬러 디스플레이(P3)",
+		"625cd/m2 최대 밝기(일반)",
+		"광시야각을 위한 듀얼 도메인 픽셀"
+		],
+		"description_en": [
+		"Retina HD display",
+		"4.7-inch (diagonal) LED-backlit widescreen",
+		"Multi-Touch display with IPS technology",
+		"1334-by-750-pixel resolution at 326 ppi",
+		"1400:1 contrast ratio (typical)",
+		"Wide color display (P3)",
+		"625 cd/m2 max brightness (typical)",
+		"Dual-domain pixels for wide viewing angles"
+		]
+	},
+	{
+		"generation": 10,
+		"display_name": "Retina HD display",
+		"release": "2016. 9. 16",
+		"discontinuance": "2019. 9. 10",
+		"name": "iPhone 7 Plus",
+		"size_inch": 5.5,
+		"resolution": "1920*1080",
+		"ppi": 401,
+		"marketing": [],
+		"description_kr": [
+		"Retina HD 디스플레이",
+		"5.5형(대각선) 와이드스크린 LCD",
+		"Multi‑Touch 디스플레이(IPS 기술)",
+		"1920 x 1080 픽셀 해상도(401ppi)",
+		"1300:1 명암비(일반)",
+		"와이드 컬러 디스플레이(P3)",
+		"625cd/m2 최대 밝기(일반)",
+		"광시야각을 위한 듀얼 도메인 픽셀"
+		],
+		"description_en": [
+		"Retina HD display",
+		"5.5-inch (diagonal) LED-backlit widescreen",
+		"Multi-Touch display with IPS technology",
+		"1920-by-1080-pixel resolution at 401 ppi",
+		"1300:1 contrast ratio (typical)",
+		"Wide color display (P3)",
+		"625 cd/m2 max brightness (typical)",
+		"Dual-domain pixels for wide viewing angles"
+		]
+	},
+	{
+		"generation": 11,
+		"display_name": "Retina HD display",
+		"release": "2017. 9. 22",
+		"discontinuance": "2020. 4. 15",
+		"name": "iPhone 8",
+		"size_inch": 4.7,
+		"resolution": "1334*750",
+		"ppi": 326,
+		"marketing": [],
+		"description_kr": [
+		"Retina HD 디스플레이",
+		"4.7형(대각선) 와이드스크린 LCD",
+		"Multi-Touch 디스플레이(IPS 기술)",
+		"1334 x 750 픽셀 해상도(326ppi)",
+		"1400:1 명암비(일반)",
+		"True Tone 디스플레이",
+		"와이드 컬러 디스플레이(P3)",
+		"3D Touch",
+		"625 니트 최대 밝기(일반)",
+		"광시야각을 위한 듀얼 도메인 픽셀"
+		],
+		"description_en": [
+		"Retina HD display",
+		"4.7-inch (diagonal) widescreen LCD",
+		"Multi-Touch display with IPS technology",
+		"1334-by-750-pixel resolution at 326 ppi",
+		"1400:1 contrast ratio (typical)",
+		"True Tone display",
+		"Wide color display (P3)",
+		"3D Touch",
+		"625 cd/m2 max brightness (typical)",
+		"Dual-domain pixels for wide viewing angles"
+		]
+	},
+	{
+		"generation": 11,
+		"display_name": "Retina HD display",
+		"release": "2017. 9. 22",
+		"discontinuance": "2020. 4. 15",
+		"name": "iPhone 8 Plus",
+		"size_inch": 5.5,
+		"resolution": "1920*1080",
+		"ppi": 401,
+		"marketing": [
+		"With a wide color gamut and the best color accuracy in the industry, everything on the screen looks more brilliant and vibrant."
+		],
+		"description_kr": [
+		"Retina HD 디스플레이",
+		"5.5형(대각선) 와이드스크린 LCD",
+		"Multi-Touch 디스플레이(IPS 기술)",
+		"1920 x 1080 픽셀 해상도(401ppi)",
+		"1300:1 명암비(일반)",
+		"True Tone 디스플레이",
+		"와이드 컬러 디스플레이(P3)",
+		"3D Touch",
+		"625 니트 최대 밝기(일반)",
+		"광시야각을 위한 듀얼 도메인 픽셀"
+		],
+		"description_en": [
+		"Retina HD display",
+		"5.5-inch (diagonal) widescreen LCD",
+		"Multi-Touch display with IPS technology",
+		"1920-by-1080-pixel resolution at 401 ppi",
+		"1300:1 contrast ratio (typical)",
+		"True Tone display",
+		"Wide color display (P3)",
+		"3D Touch",
+		"625 cd/m2 max brightness (typical)",
+		"Dual-domain pixels for wide viewing angles"
+		]
+	},
+	{
+		"generation": 11,
+		"display_name": "Super Retina HD display",
+		"release": "2017. 11. 3",
+		"discontinuance": "2018. 9. 12",
+		"name": "iPhone X",
+		"size_inch": 5.8,
+		"resolution": "2436*1125",
+		"ppi": 458,
+		"marketing": [
+		"With iPhone X, the device is the display. An all‑new 5.8‑inch Super Retina screen fills the hand and dazzles the eyes."
+		],
+		"description_kr": [
+		"Super Retina HD 디스플레이",
+		"5.8형(대각선) 전체 화면 OLED Multi‑Touch 디스플레이",
+		"HDR 디스플레이",
+		"2436 x 1125 픽셀 해상도(458ppi)",
+		"1,000,000:1 명암비(일반)",
+		"True Tone 디스플레이",
+		"와이드 컬러 디스플레이(P3)",
+		"3D Touch",
+		"625cd/m2 최대 밝기(일반)"
+		],
+		"description_en": [
+		"Super Retina HD display",
+		"5.8-inch (diagonal) all-screen OLED Multi-Touch display",
+		"HDR display",
+		"2436-by-1125-pixel resolution at 458 ppi",
+		"1,000,000:1 contrast ratio (typical)",
+		"True Tone display",
+		"Wide color display (P3)",
+		"3D Touch",
+		"625 cd/m2 max brightness (typical)"
+		]
+	},
+	{
+		"generation": 12,
+		"display_name": "Super Retina HD display",
+		"release": "2018. 9. 21",
+		"discontinuance": "2019. 9. 10",
+		"name": "iPhone XS",
+		"size_inch": 5.8,
+		"resolution": "2436*1125",
+		"ppi": 458,
+		"marketing": [
+		"The custom OLED displays on iPhone XS deliver the most accurate color in the industry, HDR, and true blacks."
+		],
+		"description_kr": [
+		"Super Retina HD 디스플레이",
+		"5.8형(대각선) 전체 화면 OLED Multi-Touch 디스플레이",
+		"HDR 디스플레이",
+		"2436 x 1125 픽셀 해상도(458ppi)",
+		"1,000,000:1 명암비(일반)",
+		"True Tone 디스플레이",
+		"와이드 컬러 디스플레이(P3)",
+		"3D Touch",
+		"625cd/m2 최대 밝기(일반)"
+		],
+		"description_en": [
+		"Super Retina HD display",
+		"5.8‑inch (diagonal) all‑screen OLED Multi‑Touch display",
+		"HDR display",
+		"2436‑by-1125‑pixel resolution at 458 ppi",
+		"1,000,000:1 contrast ratio (typical)",
+		"True Tone display",
+		"Wide color display (P3)",
+		"3D Touch",
+		"625 cd/m2 max brightness (typical)"
+		]
+	},
+	{
+		"generation": 12,
+		"display_name": "Super Retina HD display",
+		"release": "2018. 9. 21",
+		"discontinuance": "2019. 9. 10",
+		"name": "iPhone XS Max",
+		"size_inch": 6.5,
+		"resolution": "2688*1242",
+		"ppi": 458,
+		"marketing": [],
+		"description_kr": [
+		"Super Retina HD 디스플레이",
+		"6.5형(대각선) 전체 화면 OLED Multi-Touch 디스플레이",
+		"HDR 디스플레이",
+		"2688 x 1242 픽셀 해상도(458ppi)",
+		"1,000,000:1 명암비(일반)",
+		"True Tone 디스플레이",
+		"와이드 컬러 디스플레이(P3)",
+		"3D Touch",
+		"625cd/m2 최대 밝기(일반)"
+		],
+		"description_en": [
+		"Super Retina HD display",
+		"6.5‑inch (diagonal) all‑screen OLED Multi‑Touch display",
+		"HDR display",
+		"2688‑by-1242‑pixel resolution at 458 ppi",
+		"1,000,000:1 contrast ratio (typical)",
+		"True Tone display",
+		"Wide color display (P3)",
+		"3D Touch",
+		"625 cd/m2 max brightness (typical)"
+		]
+	},
+	{
+		"generation": 12,
+		"display_name": "Liquid Retina HD display",
+		"release": "2018. 10. 26",
+		"discontinuance": "2019년 9월 10일(256GB)\n2021년 9월 14일(64GB/128GB)",
+		"name": "iPhone XR",
+		"size_inch": 6.1,
+		"resolution": "1792*828",
+		"ppi": 326,
+		"marketing": [],
+		"description_kr": [
+		"Liquid Retina HD 디스플레이",
+		"6.1형(대각선) 전체 화면 LCD Multi‑Touch 디스플레이(IPS 기술)",
+		"1792 x 828 픽셀 해상도(326ppi)",
+		"1400:1 명암비(일반)",
+		"True Tone 디스플레이",
+		"와이드 컬러 디스플레이(P3)",
+		"햅틱 터치",
+		"625 니트 최대 밝기(일반)"
+		],
+		"description_en": [
+		"Liquid Retina HD display",
+		"6.1-inch (diagonal) all-screen LCD Multi-Touch display with IPS technology",
+		"1792-by-828-pixel resolution at 326 ppi",
+		"1400:1 contrast ratio (typical)",
+		"True Tone display",
+		"Wide color display (P3)",
+		"625 cd/m2 max brightness (typical)"
+		]
+	},
+	{
+		"generation": 13,
+		"display_name": "Liquid Retina HD display",
+		"release": "2019. 9. 20",
+		"discontinuance": "2022. 9. 7",
+		"name": "iPhone 11",
+		"size_inch": 6.1,
+		"resolution": "1792*828",
+		"ppi": 326,
+		"marketing": [],
+		"description_kr": [
+		"Liquid Retina HD 디스플레이",
+		"15.4cm(대각선) 전면 화면 LCD Multi-Touch 디스플레이(IPS 기술)",
+		"1792 x 828 픽셀 해상도(326ppi)",
+		"1400:1 명암비(일반)",
+		"True Tone 디스플레이",
+		"와이드 컬러 디스플레이(P3)",
+		"햅틱 터치",
+		"625 니트 최대 밝기(일반)"
+		],
+		"description_en": [
+		"Liquid Retina HD display",
+		"6.1‑inch (diagonal) all-screen LCD Multi-Touch display with IPS technology",
+		"1792‑by‑828‑pixel resolution at 326 ppi",
+		"1400:1 contrast ratio (typical)",
+		"True Tone display",
+		"Wide color display (P3)",
+		"Haptic Touch",
+		"625 nits max brightness (typical)"
+		]
+	},
+	{
+		"generation": 13,
+		"display_name": "Super Retina XDR display",
+		"release": "2019. 9. 20",
+		"discontinuance": "2020. 10. 13",
+		"name": "iPhone 11 Pro",
+		"size_inch": 5.8,
+		"resolution": "2436*1125",
+		"ppi": 458,
+		"marketing": [],
+		"description_kr": [
+		"Super Retina XDR 디스플레이",
+		"5.8형(대각선) 전면 화면 OLED Multi-Touch 디스플레이",
+		"HDR 디스플레이",
+		"2436 x 1125 픽셀 해상도(458ppi)",
+		"2,000,000:1 명암비(일반)",
+		"True Tone 디스플레이",
+		"와이드 컬러 디스플레이(P3)",
+		"햅틱 터치",
+		"800 니트 최대 밝기(일반), 1200 니트 최대 밝기(HDR)"
+		],
+		"description_en": [
+		"Super Retina XDR display",
+		"5.8‑inch (diagonal) all‑screen OLED Multi‑Touch display",
+		"HDR display",
+		"2436‑by‑1125-pixel resolution at 458 ppi",
+		"2,000,000:1 contrast ratio (typical)",
+		"True Tone display",
+		"Wide color display (P3)",
+		"Haptic Touch",
+		"800 nits max brightness (typical); 1200 nits max brightness (HDR)"
+		]
+	},
+	{
+		"generation": 13,
+		"display_name": "Super Retina XDR display",
+		"release": "2019. 9. 20",
+		"discontinuance": "2020. 10. 13",
+		"name": "iPhone 11 Pro Max",
+		"size_inch": 6.5,
+		"resolution": "2688*1242",
+		"ppi": 458,
+		"marketing": [],
+		"description_kr": [
+		"Super Retina XDR 디스플레이",
+		"6.5형(대각선) 전면 화면 OLED Multi-Touch 디스플레이",
+		"HDR 디스플레이",
+		"2688 x 1242 픽셀 해상도(458ppi)",
+		"2,000,000:1 명암비(일반)",
+		"True Tone 디스플레이",
+		"와이드 컬러 디스플레이(P3)",
+		"햅틱 터치",
+		"800 니트 최대 밝기(일반)",
+		"1200 니트 최대 밝기(HDR)"
+		],
+		"description_en": [
+		"Super Retina XDR display",
+		"6.5‑inch (diagonal) all‑screen OLED Multi‑Touch display",
+		"HDR display",
+		"2688‑by‑1242-pixel resolution at 458 ppi",
+		"2,000,000:1 contrast ratio (typical)",
+		"True Tone display",
+		"Wide color display (P3)",
+		"Haptic Touch",
+		"800 nits max brightness (typical); 1200 nits max brightness (HDR)"
+		]
+	},
+	{
+		"generation": 14,
+		"display_name": "Super Retina XDR display",
+		"release": "2020. 10. 23",
+		"discontinuance": "2023. 10. 9",
+		"name": "iPhone 12",
+		"size_inch": 6.1,
+		"resolution": "2532*1170",
+		"ppi": 460,
+		"marketing": [
+		"Vastly more contrast. Incredible color accuracy. A huge jump in pixel density. Wow. Just wow. OLED delivers brighter brights, darker blacks, and higher resolution for everything you look at. This is the best iPhone display we’ve ever made, and it goes all the way to the edge."
+		],
+		"description_kr": [
+		"Super Retina XDR 디스플레이",
+		"15.4cm(대각선) 전면 화면 OLED 디스플레이",
+		"2532 x 1170 픽셀 해상도(460ppi)",
+		"HDR 디스플레이",
+		"True Tone",
+		"넓은 색영역(P3)",
+		"햅틱 터치",
+		"2,000,000:1 명암비(일반)",
+		"625 니트 최대 밝기(일반), 1200 니트 최대 밝기(HDR)"
+		],
+		"description_en": [
+		"Super Retina XDR display",
+		"6.1‑inch (diagonal) all‑screen OLED display",
+		"2532‑by‑1170-pixel resolution at 460 ppi",
+		"HDR display",
+		"True Tone",
+		"Wide color (P3)",
+		"Haptic Touch",
+		"2,000,000:1 contrast ratio (typical)",
+		"625 nits max brightness (typical); 1200 nits max brightness (HDR)"
+		]
+	},
+	{
+		"generation": 14,
+		"display_name": "Super Retina XDR display",
+		"release": "2020. 10. 23",
+		"discontinuance": "2023. 10. 9",
+		"name": "iPhone 12 mini",
+		"size_inch": 5.4,
+		"resolution": "2340*1080",
+		"ppi": 476,
+		"marketing": [
+		"Vastly more contrast. Incredible color accuracy. A huge jump in pixel density. Wow. Just wow. OLED delivers brighter brights, darker blacks, and higher resolution for everything you look at. This is the best iPhone display we’ve ever made, and it goes all the way to the edge."
+		],
+		"description_kr": [
+		"Super Retina XDR 디스플레이",
+		"13.7cm(대각선) 전면 화면 OLED 디스플레이",
+		"2340 x 1080 픽셀 해상도(476ppi)",
+		"HDR 디스플레이",
+		"True Tone",
+		"넓은 색영역(P3)",
+		"햅틱 터치",
+		"2,000,000:1 명암비(일반)",
+		"625 니트 최대 밝기(일반), 1200 니트 최대 밝기(HDR)"
+		],
+		"description_en": [
+		"Super Retina XDR display",
+		"5.4‑inch (diagonal) all‑screen OLED display",
+		"2340‑by‑1080-pixel resolution at 476 ppi",
+		"HDR display",
+		"True Tone",
+		"Wide color (P3)",
+		"Haptic Touch",
+		"2,000,000:1 contrast ratio (typical)",
+		"625 nits max brightness (typical); 1200 nits max brightness (HDR)"
+		]
+	},
+	{
+		"generation": 14,
+		"display_name": "Super Retina XDR display",
+		"release": "2020. 10. 16",
+		"discontinuance": "2023. 10. 9",
+		"name": "iPhone 12 Pro",
+		"size_inch": 6.1,
+		"resolution": "2532*1170",
+		"ppi": 460,
+		"marketing": [
+		"An infinity pool of pixels."
+		],
+		"description_kr": [
+		"Super Retina XDR 디스플레이",
+		"6.1형(대각선) 전면 화면 OLED 디스플레이",
+		"2532 x 1170 픽셀 해상도(460ppi)",
+		"HDR 디스플레이",
+		"True Tone",
+		"넓은 색영역(P3)",
+		"햅틱 터치",
+		"2,000,000:1 명암비(일반)",
+		"800 니트 최대 밝기(일반), 1200 니트 최대 밝기(HDR)"
+		],
+		"description_en": [
+		"Super Retina XDR display",
+		"6.1‑inch (diagonal) all‑screen OLED display",
+		"2532‑by‑1170-pixel resolution at 460 ppi",
+		"HDR display",
+		"True Tone",
+		"Wide color (P3)",
+		"Haptic Touch",
+		"2,000,000:1 contrast ratio (typical)",
+		"800 nits max brightness (typical); 1200 nits max brightness (HDR)"
+		]
+	},
+	{
+		"generation": 14,
+		"display_name": "Super Retina XDR display",
+		"release": "2020. 10. 16",
+		"discontinuance": "2023. 10. 9",
+		"name": "iPhone 12 Pro Max",
+		"size_inch": 6.7,
+		"resolution": "2778*1284",
+		"ppi": 458,
+		"marketing": [
+		"An infinity pool of pixels."
+		],
+		"description_kr": [
+		"Super Retina XDR 디스플레이",
+		"6.7형(대각선) 전면 화면 OLED 디스플레이",
+		"2778 x 1284 픽셀 해상도(458ppi)",
+		"HDR 디스플레이",
+		"True Tone",
+		"넓은 색영역(P3)",
+		"햅틱 터치",
+		"2,000,000:1 명암비(일반)",
+		"800 니트 최대 밝기(일반), 1200 니트 최대 밝기(HDR)"
+		],
+		"description_en": [
+		"Super Retina XDR display",
+		"6.7‑inch (diagonal) all‑screen OLED display",
+		"2778‑by‑1284-pixel resolution at 458 ppi",
+		"HDR display",
+		"True Tone",
+		"Wide color (P3)",
+		"Haptic Touch",
+		"2,000,000:1 contrast ratio (typical)",
+		"800 nits max brightness (typical); 1200 nits max brightness (HDR)"
+		]
+	},
+	{
+		"generation": 15,
+		"display_name": "Super Retina XDR display",
+		"release": "2021. 9. 15",
+		"discontinuance": "2023. 10. 9",
+		"name": "iPhone 13",
+		"size_inch": 6.1,
+		"resolution": "2532*1170",
+		"ppi": 460,
+		"marketing": [
+		"Supercolor​pixelistic​ XDRidocious.​"
+		],
+		"description_kr": [
+		"Super Retina XDR 디스플레이",
+		"15.4cm(대각선) 전면 화면 OLED 디스플레이",
+		"2532 x 1170 픽셀 해상도(460ppi)",
+		"HDR 디스플레이",
+		"True Tone",
+		"넓은 색영역(P3)",
+		"햅틱 터치",
+		"2,000,000:1 명암비(일반)",
+		"800 니트 전체 최대 밝기(일반), 1200 니트 부분 최대 밝기(HDR)"
+		],
+		"description_en": [
+		"Super Retina XDR display",
+		"6.1‑inch (diagonal) all‑screen OLED display",
+		"2532‑by‑1170-pixel resolution at 460 ppi",
+		"HDR display",
+		"True Tone",
+		"Wide color (P3)",
+		"Haptic Touch",
+		"2,000,000:1 contrast ratio (typical)",
+		"800 nits max brightness (typical); 1200 nits max brightness (HDR)"
+		]
+	},
+	{
+		"generation": 15,
+		"display_name": "Super Retina XDR display",
+		"release": "2021. 9. 15",
+		"discontinuance": "2023. 10. 9",
+		"name": "iPhone 13 mini",
+		"size_inch": 5.4,
+		"resolution": "2340*1080",
+		"ppi": 476,
+		"marketing": [
+		"The Super Retina XDR display has an ultrahigh pixel density, so photos, videos, text — whatever you’re viewing — looks extra-sharp. And the display is even more expansive, thanks to a smaller TrueDepth camera area."
+		],
+		"description_kr": [
+		"Super Retina XDR 디스플레이",
+		"13.7cm(대각선) 전면 화면 OLED 디스플레이",
+		"2340 x 1080 픽셀 해상도(476ppi)",
+		"HDR 디스플레이",
+		"True Tone",
+		"넓은 색영역(P3)",
+		"햅틱 터치",
+		"2,000,000:1 명암비(일반)",
+		"800 니트 전체 최대 밝기(일반), 1200 니트 부분 최대 밝기(HDR)"
+		],
+		"description_en": [
+		"Super Retina XDR display",
+		"5.4‑inch (diagonal) all‑screen OLED display",
+		"2340‑by‑1080-pixel resolution at 476 ppi",
+		"HDR display",
+		"True Tone",
+		"Wide color (P3)",
+		"Haptic Touch",
+		"2,000,000:1 contrast ratio (typical)",
+		"800 nits max brightness (typical); 1200 nits max brightness (HDR)"
+		]
+	},
+	{
+		"generation": 15,
+		"display_name": "Super Retina XDR display",
+		"release": "2021. 9. 15",
+		"discontinuance": "2023. 10. 9",
+		"name": "iPhone 13 Pro",
+		"size_inch": 6.1,
+		"resolution": "2532*1170",
+		"ppi": 460,
+		"marketing": [
+		"pushes the display’s incredible resolution and color right to the edge"
+		],
+		"description_kr": [
+		"ProMotion 기술이 적용된 Super Retina XDR 디스플레이",
+		"15.4cm(대각선) 전면 화면 OLED 디스플레이",
+		"2532 x 1170 픽셀 해상도(460ppi)",
+		"최대 120Hz 가변 재생률을 제공하는 ProMotion 기술",
+		"HDR 디스플레이",
+		"True Tone",
+		"와이드 컬러(P3)",
+		"햅틱 터치",
+		"2,000,000:1 명암비(일반)",
+		"1000 니트 최대 밝기(일반), 1200 니트 최대 밝기(HDR)"
+		],
+		"description_en": [
+		"Super Retina XDR display with ProMotion",
+		"6.1‑inch (diagonal) all‑screen OLED display",
+		"2532‑by‑1170-pixel resolution at 460 ppi",
+		"ProMotion technology with adaptive refresh rates up to 120Hz",
+		"HDR display",
+		"True Tone",
+		"Wide color (P3)",
+		"Haptic Touch",
+		"2,000,000:1 contrast ratio (typical)",
+		"1000 nits max brightness (typical); 1200 nits max brightness (HDR)"
+		]
+	},
+	{
+		"generation": 15,
+		"display_name": "Super Retina XDR display",
+		"release": "2021. 9. 15",
+		"discontinuance": "2023. 10. 9",
+		"name": "iPhone 13 Pro Max",
+		"size_inch": 6.7,
+		"resolution": "2778*1284",
+		"ppi": 458,
+		"marketing": [
+		"pushes the display’s incredible resolution and color right to the edge"
+		],
+		"description_kr": [
+		"ProMotion 기술이 적용된 Super Retina XDR 디스플레이",
+		"16.9cm(대각선) 전면 화면 OLED 디스플레이",
+		"2778 x 1284 픽셀 해상도(458ppi)",
+		"최대 120Hz 가변 재생률을 제공하는 ProMotion 기술",
+		"HDR 디스플레이",
+		"True Tone",
+		"와이드 컬러(P3)",
+		"햅틱 터치",
+		"2,000,000:1 명암비(일반)",
+		"1000 니트 최대 밝기(일반), 1200 니트 최대 밝기(HDR)"
+		],
+		"description_en": [
+		"Super Retina XDR display with ProMotion",
+		"6.7‑inch (diagonal) all‑screen OLED display",
+		"2778‑by‑1284-pixel resolution at 458 ppi",
+		"ProMotion technology with adaptive refresh rates up to 120Hz",
+		"HDR display",
+		"True Tone",
+		"Wide color (P3)",
+		"Haptic Touch",
+		"2,000,000:1 contrast ratio (typical)",
+		"1000 nits max brightness (typical); 1200 nits max brightness (HDR)"
+		]
+	},
+	{
+		"generation": 16,
+		"display_name": "Super Retina XDR display",
+		"release": "2022. 9. 16",
+		"discontinuance": "2023. 10. 9",
+		"name": "iPhone 14",
+		"size_inch": 6.1,
+		"resolution": "2532*1170",
+		"ppi": 460,
+		"marketing": [
+		"21% more screen.",
+		"Now that’s big."
+		],
+		"description_kr": [
+		"Super Retina XDR 디스플레이",
+		"15.4cm(대각선) 전면 화면 OLED 디스플레이",
+		"2532 x 1170 픽셀 해상도(460ppi)",
+		"HDR 디스플레이",
+		"True Tone",
+		"넓은 색영역(P3)",
+		"햅틱 터치",
+		"2,000,000:1 명암비(일반)",
+		"800 니트 전체 최대 밝기(일반), 1200 니트 부분 최대 밝기(HDR)"
+		],
+		"description_en": [
+		"Super Retina XDR display",
+		"6.1‑inch (diagonal) all‑screen OLED display",
+		"2532‑by‑1170-pixel resolution at 460 ppi",
+		"HDR display",
+		"True Tone",
+		"Wide color (P3)",
+		"Haptic Touch",
+		"2,000,000:1 contrast ratio (typical)",
+		"800 nits max brightness (typical); 1200 nits peak brightness (HDR)"
+		]
+	},
+	{
+		"generation": 16,
+		"display_name": "Super Retina XDR display",
+		"release": "2022. 10. 8",
+		"discontinuance": "2023. 10. 9",
+		"name": "iPhone 14 Plus",
+		"size_inch": 6.7,
+		"resolution": "2778*1284",
+		"ppi": 458,
+		"marketing": [
+		"21% more screen.",
+		"Now that’s big."
+		],
+		"description_kr": [
+		"Super Retina XDR 디스플레이",
+		"17.0cm(대각선) 전면 화면 OLED 디스플레이",
+		"2778 x 1284 픽셀 해상도(458ppi)",
+		"HDR 디스플레이",
+		"True Tone",
+		"넓은 색영역(P3)",
+		"햅틱 터치",
+		"2,000,000:1 명암비(일반)",
+		"800 니트 전체 최대 밝기(일반), 1200 니트 부분 최대 밝기(HDR)"
+		],
+		"description_en": [
+		"Super Retina XDR display",
+		"6.7‑inch (diagonal) all‑screen OLED display",
+		"2778‑by‑1284-pixel resolution at 458 ppi",
+		"HDR display",
+		"True Tone",
+		"Wide color (P3)",
+		"Haptic Touch",
+		"2,000,000:1 contrast ratio (typical)",
+		"800 nits max brightness (typical); 1200 nits peak brightness (HDR)"
+		]
+	},
+	{
+		"generation": 15,
+		"display_name": "Super Retina XDR display",
+		"release": "2022. 9. 16",
+		"discontinuance": "2023. 10. 9",
+		"name": "iPhone 14 Pro",
+		"size_inch": 6.1,
+		"resolution": "2556*1179",
+		"ppi": 460,
+		"marketing": [
+		"A display that’s up to 2x brighter in the sun. Brilliant."
+		],
+		"description_kr": [
+		"Super Retina XDR 디스플레이",
+		"15.5cm(대각선) 전면 화면 OLED 디스플레이",
+		"2556 x 1179 픽셀 해상도(460ppi)",
+		"Dynamic Island",
+		"상시표시형 디스플레이",
+		"최대 120Hz 가변 재생률을 제공하는 ProMotion 기술",
+		"HDR 디스플레이",
+		"True Tone",
+		"넓은 색영역(P3)",
+		"햅틱 터치",
+		"2,000,000:1 명암비(일반)",
+		"1000 니트 전체 최대 밝기(일반); 1600 니트 부분 최대 밝기(HDR); 2000 니트 부분 최대 밝기(야외)"
+		],
+		"description_en": [
+		"Super Retina XDR display",
+		"6.1‑inch (diagonal) all‑screen OLED display",
+		"2556‑by‑1179-pixel resolution at 460 ppi",
+		"Dynamic Island",
+		"Always-On display",
+		"ProMotion technology with adaptive refresh rates up to 120Hz",
+		"HDR display",
+		"True Tone",
+		"Wide color (P3)",
+		"Haptic Touch",
+		"2,000,000:1 contrast ratio (typical)",
+		"1000 nits max brightness (typical); 1600 nits peak brightness (HDR); 2000 nits peak brightness (outdoor)"
+		]
+	},
+	{
+		"generation": 16,
+		"display_name": "Super Retina XDR display",
+		"release": "2022. 9. 16",
+		"discontinuance": "2023. 10. 9",
+		"name": "iPhone 14 Pro Max",
+		"size_inch": 6.7,
+		"resolution": "2796*1290",
+		"ppi": 460,
+		"marketing": [
+		"A display that’s up to 2x brighter in the sun. Brilliant."
+		],
+		"description_kr": [
+		"Super Retina XDR 디스플레이",
+		"17.0cm(대각선) 전면 화면 OLED 디스플레이",
+		"2796 x 1290 픽셀 해상도(460ppi)",
+		"Dynamic Island",
+		"상시표시형 디스플레이",
+		"최대 120Hz 가변 재생률을 제공하는 ProMotion 기술",
+		"HDR 디스플레이",
+		"True Tone",
+		"넓은 색영역(P3)",
+		"햅틱 터치",
+		"2,000,000:1 명암비(일반)",
+		"1000 니트 전체 최대 밝기(일반); 1600 니트 부분 최대 밝기(HDR); 2000 니트 부분 최대 밝기(야외)"
+		],
+		"description_en": [
+		"Super Retina XDR display",
+		"6.7‑inch (diagonal) all‑screen OLED display",
+		"2796‑by‑1290-pixel resolution at 460 ppi",
+		"Dynamic Island",
+		"Always-On display",
+		"ProMotion technology with adaptive refresh rates up to 120Hz",
+		"HDR display",
+		"True Tone",
+		"Wide color (P3)",
+		"Haptic Touch",
+		"2,000,000:1 contrast ratio (typical)",
+		"1000 nits max brightness (typical); 1600 nits peak brightness (HDR); 2000 nits peak brightness (outdoor)"
+		]
+	},
+	{
+		"generation": 17,
+		"display_name": "Super Retina XDR display",
+		"release": "2023. 9. 22",
+		"discontinuance": "",
+		"name": "iPhone 15",
+		"size_inch": 6.1,
+		"resolution": "2556*1179",
+		"ppi": 460,
+		"marketing": [],
+		"description_kr": [
+		"Super Retina XDR 디스플레이",
+		"15.5cm(대각선) 전면 화면 OLED 디스플레이",
+		"2556 x 1179 픽셀 해상도(460ppi)",
+		"Dynamic Island",
+		"HDR 디스플레이",
+		"True Tone",
+		"넓은 색영역(P3)",
+		"햅틱 터치",
+		"2,000,000:1 명암비(일반)",
+		"1000 니트 전체 최대 밝기(일반); 1600 니트 부분 최대 밝기(HDR); 2000 니트 부분 최대 밝기(야외)"
+		],
+		"description_en": [
+		"Super Retina XDR display",
+		"6.1‑inch (diagonal) all‑screen OLED display",
+		"2556‑by‑1179-pixel resolution at 460 ppi",
+		"Dynamic Island",
+		"HDR display",
+		"True Tone",
+		"Wide color (P3)",
+		"Haptic Touch",
+		"2,000,000:1 contrast ratio (typical)",
+		"1000 nits max brightness (typical); 1600 nits peak brightness (HDR); 2000 nits peak brightness (outdoor)"
+		]
+	},
+	{
+		"generation": 17,
+		"display_name": "Super Retina XDR display",
+		"release": "2023. 9. 22",
+		"discontinuance": "",
+		"name": "iPhone 15 Plus",
+		"size_inch": 6.7,
+		"resolution": "2796*1290",
+		"ppi": 460,
+		"marketing": [],
+		"description_kr": [
+		"Super Retina XDR 디스플레이",
+		"17.0cm(대각선) 전면 화면 OLED 디스플레이",
+		"2796 x 1290 픽셀 해상도(460ppi)",
+		"Dynamic Island",
+		"HDR 디스플레이",
+		"True Tone",
+		"넓은 색영역(P3)",
+		"햅틱 터치",
+		"2,000,000:1 명암비(일반)",
+		"1000 니트 전체 최대 밝기(일반); 1600 니트 부분 최대 밝기(HDR); 2000 니트 부분 최대 밝기(야외)"
+		],
+		"description_en": [
+		"Super Retina XDR display",
+		"6.7‑inch (diagonal) all‑screen OLED display",
+		"2796‑by‑1290-pixel resolution at 460 ppi",
+		"Dynamic Island",
+		"HDR display",
+		"True Tone",
+		"Wide color (P3)",
+		"Haptic Touch",
+		"2,000,000:1 contrast ratio (typical)",
+		"1000 nits max brightness (typical); 1600 nits peak brightness (HDR); 2000 nits peak brightness (outdoor)"
+		]
+	},
+	{
+		"generation": 17,
+		"display_name": "Super Retina XDR display",
+		"release": "2023. 9. 22",
+		"discontinuance": "2024. 9. 9",
+		"name": "iPhone 15 Pro",
+		"size_inch": 6.1,
+		"resolution": "2556*1179",
+		"ppi": 460,
+		"marketing": [],
+		"description_kr": [
+		"Super Retina XDR 디스플레이",
+		"15.5cm(대각선) 전면 화면 OLED 디스플레이",
+		"2556 x 1179 픽셀 해상도(460ppi)",
+		"Dynamic Island",
+		"상시표시형 디스플레이",
+		"최대 120Hz 가변 재생률을 제공하는 ProMotion 기술",
+		"HDR 디스플레이",
+		"True Tone",
+		"넓은 색영역(P3)",
+		"햅틱 터치",
+		"2,000,000:1 명암비(일반)",
+		"1000 니트 전체 최대 밝기(일반); 1600 니트 부분 최대 밝기(HDR); 2000 니트 부분 최대 밝기(야외)"
+		],
+		"description_en": [
+		"Super Retina XDR display",
+		"6.1‑inch (diagonal) all‑screen OLED display",
+		"2556‑by‑1179-pixel resolution at 460 ppi",
+		"Dynamic Island",
+		"Always-On display",
+		"ProMotion technology with adaptive refresh rates up to 120Hz",
+		"HDR display",
+		"True Tone",
+		"Wide color (P3)",
+		"Haptic Touch",
+		"2,000,000:1 contrast ratio (typical)",
+		"1000 nits max brightness (typical); 1600 nits peak brightness (HDR); 2000 nits peak brightness (outdoor)"
+		]
+	},
+	{
+		"generation": 17,
+		"display_name": "Super Retina XDR display",
+		"release": "2023. 9. 22",
+		"discontinuance": "2024. 9. 9",
+		"name": "iPhone 15 Pro Max",
+		"size_inch": 6.7,
+		"resolution": "2796*1290",
+		"ppi": 460,
+		"marketing": [],
+		"description_kr": [
+		"Super Retina XDR 디스플레이",
+		"17.0cm(대각선) 전면 화면 OLED 디스플레이",
+		"2796 x 1290 픽셀 해상도(460ppi)",
+		"Dynamic Island",
+		"상시표시형 디스플레이",
+		"최대 120Hz 가변 재생률을 제공하는 ProMotion 기술",
+		"HDR 디스플레이",
+		"True Tone",
+		"넓은 색영역(P3)",
+		"햅틱 터치",
+		"2,000,000:1 명암비(일반)",
+		"1000 니트 전체 최대 밝기(일반); 1600 니트 부분 최대 밝기(HDR); 2000 니트 부분 최대 밝기(야외)"
+		],
+		"description_en": [
+		"Super Retina XDR display",
+		"6.7‑inch (diagonal) all‑screen OLED display",
+		"2796‑by‑1290-pixel resolution at 460 ppi",
+		"Dynamic Island",
+		"Always-On display",
+		"ProMotion technology with adaptive refresh rates up to 120Hz",
+		"HDR display",
+		"True Tone",
+		"Wide color (P3)",
+		"Haptic Touch",
+		"2,000,000:1 contrast ratio (typical)",
+		"1000 nits max brightness (typical); 1600 nits peak brightness (HDR); 2000 nits peak brightness (outdoor)"
+		]
+	},
+	{
+		"generation": 18,
+		"display_name": "Super Retina XDR display",
+		"release": "2024. 9. 20",
+		"discontinuance": "",
+		"name": "iPhone 16",
+		"size_inch": 6.1,
+		"resolution": "2622*1290",
+		"ppi": 460,
+		"marketing": [
+		"새로운 울트라 와이드 카메라.",
+		"사진을 더 가깝게, 더 탁월하게."
+		],
+		"description_kr": [
+		"Super Retina XDR 디스플레이",
+		"15.9cm(대각선) 전면 화면 OLED 디스플레이",
+		"2622 x 1206 픽셀 해상도(460ppi)",
+		"Dynamic Island",
+		"상시표시형 디스플레이",
+		"최대 120Hz 가변 재생률을 제공하는 ProMotion 기술",
+		"HDR 디스플레이",
+		"True Tone",
+		"넓은 색영역(P3)",
+		"햅틱 터치",
+		"2,000,000:1 명암비(일반)",
+		"1000 니트 전체 최대 밝기(일반); 1600 니트 부분 최대 밝기(HDR); 2000 니트 부분 최대 밝기(야외); 1 니트 최소 밝기"
+		],
+		"description_en": [
+		"Super Retina XDR display",
+		"6.1‑inch (diagonal) all‑screen OLED display",
+		"2556‑by‑1179-pixel resolution at 460 ppi",
+		"Dynamic Island",
+		"HDR display",
+		"True Tone",
+		"Wide color (P3)",
+		"Haptic Touch",
+		"2,000,000:1 contrast ratio (typical)",
+		"1000 nits max brightness (typical); 1600 nits peak brightness (HDR); 2000 nits peak brightness (outdoor); 1 nit minimum brightness"
+		]
+	},
+	{
+		"generation": 18,
+		"display_name": "Super Retina XDR display",
+		"release": "2024. 9. 20",
+		"discontinuance": "",
+		"name": "iPhone 16 Plus",
+		"size_inch": 6.7,
+		"resolution": "2796*1290",
+		"ppi": 460,
+		"marketing": [
+		"새로운 울트라 와이드 카메라.",
+		"사진을 더 가깝게, 더 탁월하게."
+		],
+		"description_kr": [
+		"Super Retina XDR 디스플레이",
+		"17.0cm(대각선) 전면 화면 OLED 디스플레이",
+		"2796 x 1290 픽셀 해상도(460ppi)",
+		"Dynamic Island",
+		"HDR 디스플레이",
+		"True Tone",
+		"넓은 색영역(P3)",
+		"햅틱 터치",
+		"2,000,000:1 명암비(일반)",
+		"1000 니트 전체 최대 밝기(일반); 1600 니트 부분 최대 밝기(HDR); 2000 니트 부분 최대 밝기(야외); 1 니트 최소 밝기"
+		],
+		"description_en": [
+		"Super Retina XDR display",
+		"6.7‑inch (diagonal) all‑screen OLED display",
+		"2796‑by‑1290-pixel resolution at 460 ppi",
+		"Dynamic Island",
+		"HDR display",
+		"True Tone",
+		"Wide color (P3)",
+		"Haptic Touch",
+		"2,000,000:1 contrast ratio (typical)",
+		"1000 nits max brightness (typical); 1600 nits peak brightness (HDR); 2000 nits peak brightness (outdoor); 1 nit minimum brightness"
+		]
+	},
+	{
+		"generation": 18,
+		"display_name": "Super Retina XDR display",
+		"release": "2024. 9. 20",
+		"discontinuance": "",
+		"name": "iPhone 16 Pro ",
+		"size_inch": 6.3,
+		"resolution": "2622*1290",
+		"ppi": 460,
+		"marketing": [],
+		"description_kr": [
+		"Super Retina XDR 디스플레이",
+		"15.9cm(대각선) 전면 화면 OLED 디스플레이",
+		"2622 x 1206 픽셀 해상도(460ppi)",
+		"Dynamic Island",
+		"상시표시형 디스플레이",
+		"최대 120Hz 가변 재생률을 제공하는 ProMotion 기술",
+		"HDR 디스플레이",
+		"True Tone",
+		"넓은 색영역(P3)",
+		"햅틱 터치",
+		"2,000,000:1 명암비(일반)",
+		"1000 니트 전체 최대 밝기(일반); 1600 니트 부분 최대 밝기(HDR); 2000 니트 부분 최대 밝기(야외); 1 니트 최소 밝기"
+		],
+		"description_en": [
+		"Super Retina XDR display",
+		"6.3‑inch (diagonal) all‑screen OLED display",
+		"2622‑by‑1206-pixel resolution at 460 ppi",
+		"Dynamic Island",
+		"Always-On display",
+		"ProMotion technology with adaptive refresh rates up to 120Hz",
+		"HDR display",
+		"True Tone",
+		"Wide color (P3)",
+		"Haptic Touch",
+		"2,000,000:1 contrast ratio (typical)",
+		"1000 nits max brightness (typical); 1600 nits peak brightness (HDR); 2000 nits peak brightness (outdoor); 1 nit minimum brightness"
+		]
+	},
+	{
+		"generation": 18,
+		"display_name": "Super Retina XDR display",
+		"release": "2024. 9. 20",
+		"discontinuance": "",
+		"name": "iPhone 16 Pro Max",
+		"size_inch": 6.9,
+		"resolution": "2868*1320",
+		"ppi": 460,
+		"marketing": [],
+		"description_kr": [
+		"Super Retina XDR 디스플레이",
+		"17.4cm(대각선) 전면 화면 OLED 디스플레이",
+		"2868 x 1320 픽셀 해상도(460ppi)",
+		"Dynamic Island",
+		"상시표시형 디스플레이",
+		"최대 120Hz 가변 재생률을 제공하는 ProMotion 기술",
+		"HDR 디스플레이",
+		"True Tone",
+		"넓은 색영역(P3)",
+		"햅틱 터치",
+		"2,000,000:1 명암비(일반)",
+		"1000 니트 전체 최대 밝기(일반); 1600 니트 부분 최대 밝기(HDR); 2000 니트 부분 최대 밝기(야외); 1 니트 최소 밝기"
+		],
+		"description_en": [
+		"Super Retina XDR display",
+		"6.9‑inch (diagonal) all‑screen OLED display",
+		"2868‑by‑1320-pixel resolution at 460 ppi",
+		"Dynamic Island",
+		"Always-On display",
+		"ProMotion technology with adaptive refresh rates up to 120Hz",
+		"HDR display",
+		"True Tone",
+		"Wide color (P3)",
+		"Haptic Touch",
+		"2,000,000:1 contrast ratio (typical)",
+		"1000 nits max brightness (typical); 1600 nits peak brightness (HDR); 2000 nits peak brightness (outdoor); 1 nit minimum brightness"
+		]
+	},
+	{
+		"generation": 19,
+		"display_name": "Super Retina XDR display",
+		"release": "2025. 2. 28",
+		"discontinuance": "",
+		"name": "iPhone 16e",
+		"size_inch": 6.1,
+		"resolution": "2532*1170",
+		"ppi": 460,
+		"marketing": [],
+		"description_kr": [
+		"Super Retina XDR 디스플레이",
+		"15.4cm(대각선) 전면 화면 OLED 디스플레이",
+		"2532 x 1170 픽셀 해상도(460ppi)",
+		"HDR 디스플레이",
+		"True Tone",
+		"넓은 색영역(P3)",
+		"햅틱 터치",
+		"2,000,000:1 명암비(일반)",
+		"800 니트 전체 최대 밝기(일반), 1200 니트 부분 최대 밝기(HDR)"
+		],
+		"description_en": [
+		"Super Retina XDR display",
+		"6.1‑inch (diagonal) all‑screen OLED display",
+		"2532‑by‑1170-pixel resolution at 460 ppi",
+		"HDR display",
+		"True Tone",
+		"Wide color (P3)",
+		"Haptic Touch",
+		"2,000,000:1 contrast ratio (typical)",
+		"800 nits max brightness (typical); 1200 nits peak brightness (HDR)"
+		]
+	}
+]
