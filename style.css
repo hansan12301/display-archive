@@ -202,6 +202,7 @@ img {
     backdrop-filter: saturate(1.8) blur(5px);
     border-radius: var(--border-radius1);
     border: 1px solid white;
+    overflow-y: scroll;
 }
 
 #about-ratina   {
