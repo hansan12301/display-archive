@@ -172,7 +172,7 @@ img {
     pointer-events: none; /* 클릭 방해 안 되게 */
 }
 #main-info  {
-    height: calc(100vh - 12.8rem);
+    height: calc(100vh - 6.4rem);
     display: flex;
     flex-direction: column;
     justify-content: end;
