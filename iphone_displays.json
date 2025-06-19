@@ -31,7 +31,7 @@
 		"resolution": "480*320",
 		"ppi": 163,
 		"marketing": [
-		"iPhone shows off your content — music, movies, TV shows, and more — on a beautiful 3.5-inch display."
+		"iPhone shows off your content on a beautiful 3.5-inch display."
 		],
 		"description_kr": [
 		"-"
@@ -52,7 +52,7 @@
 		"resolution": "480*320",
 		"ppi": 163,
 		"marketing": [
-		"Improvements over its predecessor's screen include 24-bit color emulation (18-bit color display plus dithering) for a more color rich display."
+		"24-bit color emulation for a more color rich display."
 		],
 		"description_kr": [
 		"8.9cm(대각선) 와이드스크린 Multi-Touch 디스플레이",
@@ -103,7 +103,7 @@
 		"resolution": "960*640",
 		"ppi": 326,
 		"marketing": [
-		"The sharpest, most vibrant thing you’ll see on iPhone 4S is everything",
+		"Most vibrant thing you’ll see on iPhone 4S is everything",
 		"The Retina display is the highest-resolution phone screen ever. In fact, the pixel density is so high that the human eye is unable to distinguish individual pixels. But without a doubt, you’ll notice crisp text, sharp graphics, and stunning images. It’s more remarkable than the printed page. And you’ll be completely absorbed."
 		],
 		"description_kr": [
@@ -163,7 +163,7 @@
 		"resolution": "1136*640",
 		"ppi": 326,
 		"marketing": [
-			"더 커진 픽셀과 향상된 후면 조명 센서 덕분에 저조도 환경에서도 감도가 향상되어, 동부 해안에 있는 친구와 서부 해안의 일몰을 함께 감상할 수 있습니다."
+			"동부 해안에 있는 친구와 서부 해안의 일몰을 함께 감상할 수 있습니다."
 		],
 		"description_kr": [
 		"Retina 디스플레이",
@@ -192,8 +192,8 @@
 		"resolution": "1136*640",
 		"ppi": 326,
 		"marketing": [
-			"텍스처와 그림자가 더욱 생생하게 표현되고, 햇빛이 물에 반사되어 전체적인 경험이 훨씬 더 사실적으로 느껴집니다.",
-		"A7 supports OpenGL ES version 3.0 to deliver the kind of detailed graphics and complex visual effects once possible only on Mac computers, PCs, and gaming consoles. The difference is amazing. Take the imaginary worlds in games, for instance. Textures and shadows look more true to life. Sunlight reflects off the water. The whole experience feels much more realistic."
+			"햇빛이 물에 반사되어 훨씬 더 사실적으로 느껴집니다.",
+			"A7 supports OpenGL ES version 3.0 to deliver the kind of detailed graphics and complex visual effects once possible only on Mac computers, PCs, and gaming consoles. The difference is amazing. Take the imaginary worlds in games, for instance. Textures and shadows look more true to life. Sunlight reflects off the water. The whole experience feels much more realistic."
 		],
 		"description_kr": [
 		"Retina 디스플레이",
@@ -255,7 +255,7 @@
 		"resolution": "1920*1080",
 		"ppi": 401,
 		"marketing": [
-			"더 높은 명암비, 더 넓은 시야각에서 더욱 정확한 색상을 표현하는 듀얼 도메인 픽셀, 그리고 향상된 편광 필터를 제공하는 혁신적인 기술들을 통해, 이 제품은 Apple 역사상 가장 얇고 진보된 멀티 터치 디스플레이입니다."
+			"이 제품은 Apple 역사상 가장 얇고 진보된 멀티 터치 디스플레이입니다."
 		],
 		"description_kr": [
 		"Retina HD 디스플레이",
@@ -287,7 +287,7 @@
 		"resolution": "1334*750",
 		"ppi": 326,
 		"marketing": [
-		"The only thing that is changed is all."
+			"The only thing that is changed is all."
 		],
 		"description_kr": [
 		"3D Touch를 자랑하는 Retina HD 디스플레이",
@@ -318,7 +318,9 @@
 		"size_inch": 5.5,
 		"resolution": "1920*1080",
 		"ppi": 401,
-		"marketing": [],
+		"marketing": [
+			"The only thing that is changed is all."
+		],
 		"description_kr": [
 		"3D Touch를 자랑하는 Retina HD 디스플레이",
 		"5.5형(대각선) 와이드스크린 LCD Multi‑Touch 디스플레이(IPS 기술)",
@@ -349,7 +351,7 @@
 		"resolution": "1334*750",
 		"ppi": 326,
 		"marketing": [
-		"Retina HD Display, The brightest, most colorful iPhone display yet."
+			"The brightest, most colorful iPhone display yet."
 		],
 		"description_kr": [
 		"Retina HD 디스플레이",
@@ -382,7 +384,9 @@
 		"size_inch": 5.5,
 		"resolution": "1920*1080",
 		"ppi": 401,
-		"marketing": [],
+		"marketing": [
+			"The brightest, most colorful iPhone display yet."
+		],
 		"description_kr": [
 		"Retina HD 디스플레이",
 		"5.5형(대각선) 와이드스크린 LCD",
@@ -414,7 +418,9 @@
 		"size_inch": 4.7,
 		"resolution": "1334*750",
 		"ppi": 326,
-		"marketing": [],
+		"marketing": [
+			"Everything on the screen looks more brilliant and vibrant."
+		],
 		"description_kr": [
 		"Retina HD 디스플레이",
 		"4.7형(대각선) 와이드스크린 LCD",
@@ -451,7 +457,7 @@
 		"resolution": "1920*1080",
 		"ppi": 401,
 		"marketing": [
-		"With a wide color gamut and the best color accuracy in the industry, everything on the screen looks more brilliant and vibrant."
+			"Everything on the screen looks more brilliant and vibrant."
 		],
 		"description_kr": [
 		"Retina HD 디스플레이",
@@ -489,7 +495,7 @@
 		"resolution": "2436*1125",
 		"ppi": 458,
 		"marketing": [
-		"With iPhone X, the device is the display. An all‑new 5.8‑inch Super Retina screen fills the hand and dazzles the eyes."
+			"With iPhone X, the device is the display. An all‑new 5.8‑inch Super Retina screen fills the hand and dazzles the eyes."
 		],
 		"description_kr": [
 		"Super Retina HD 디스플레이",
