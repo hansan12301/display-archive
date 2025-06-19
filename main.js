@@ -191,7 +191,7 @@ d3.json("iphone_displays.json").then(data => {
                     <img src="./img/${d.name}.jpg" alt="">
                 </div>
                 <div class="price">
-                    <h5>${d.price}부터</h5>
+                    <h5>$ ${d.price}부터</h5>
                     <h6>${d.name}, 현재 판매 종료<h6>
                 </div>
                 <div class="display">
