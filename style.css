@@ -2,62 +2,17 @@
     --main-color: black;
     --text-color: black;
     --second-color: #858585;
-    --bg-color: white;
+    --bg1-color: white;
+    --bg2-color: white;
     --border-syle: var(--main-color) solid 1px;
+    --border-radius1: 3.2rem;
+    --margin1: 6.4rem;
 }
 
 * {
     margin: 0;
     padding: 0;
     box-sizing: border-box;
-}
-
-body    {
-    font-optical-sizing: auto;
-    font-style: normal;
-    font-size: 2.0rem;
-    font-weight: 400;
-    line-height: 180%;
-
-    word-break: keep-all;
-    word-wrap: normal;
-
-
-    margin: 0px 0px 1.8rem;
-    padding: 0px;
-
-    overflow-x: hidden;
-    -ms-overflow-style: none;
-}
-
-::-webkit-scrollbar {
-    display: none;
-}
-
-/* 제목용 폰트 설정 */
-h1, h2  {
-    font-size: 4.8rem;
-    font-weight: 700; 
-    margin: 0px;
-    width: calc(50vw - 2.4rem);
-    white-space: normal;
-    line-height: 130%;
-}
-
-h3  {
-    font-size: 2.0rem;
-    font-weight: 400;
-    margin: 0px;
-    width: 10vw;
-    white-space: normal;
-}
-
-p       {
-    font-size: 2.4rem;
-    font-weight: 400;
-    margin: 0px;
-    width: calc(50vw - 2.4rem);
-    white-space: normal;
 }
 
 /* css 초기화 */
@@ -68,49 +23,301 @@ html    {
     font-size: 62.5%;
 }
 
-main {
+body    {
+    font-family:
+    "Apple SD Gothic Neo",  /* macOS 한글 */
+    "Noto Sans KR",         /* Google Fonts */
+    "Malgun Gothic",        /* Windows 한글 */
+    sans-serif;
+
+    font-optical-sizing: auto;
+    font-style: normal;
+    font-size: 2.0rem;
+    font-weight: 400;
+    line-height: 150%;
+
+    word-break: keep-all;
+    word-wrap: normal;
+
+    margin: 0px 0px;
+    padding: 0px;
+
+    overflow-x: hidden;
+    overflow-y: hidden;
+    -ms-overflow-style: none;
+    background-color: white;
+}
+
+::-webkit-scrollbar {
+    display: none;
+}
+
+/* LargeTitle */
+h1  {
+    font-size: 4rem;
+    font-weight: 700; 
+    line-height: 150%;
+    margin-bottom: 2.8rem;
+}
+
+/* Title1 */
+h2  {
+    font-size: 2.8rem;
+    font-weight: 700;
+    line-height: 150%;
+    margin-bottom: 2.8rem;
+}
+
+/* Title2 */
+h3  {
+    font-size: 2.2rem;
+    font-weight: 700;
+    line-height: 150%;
+    margin-bottom: 2.5rem;
+}
+
+/* Title3 */
+h4  {
+    font-size: 2.0rem;
+    font-weight: 700;
+    line-height: 150%;
+    margin-bottom: 2.5rem;
+}
+
+/* Headline */
+h5  {
+    font-size: 1.7rem;
+    font-weight: 700;
+    line-height: 150%;
+    margin-bottom: 2.5rem;
+}
+
+/* Headline */
+h6  {
+    font-size: 1.5rem;
+    font-weight: 400;
+    line-height: 150%;
+}
+
+p       {
+    font-size: 1.7rem;
+    font-weight: 400;
+    line-height: 150%;
+    margin-bottom: 2.5rem;
+}
+
+
+
+header  {
+    position: sticky;
+    height: 5.2rem;
+    top: 0;
+    z-index: 1;
+
     display: flex;
+    align-items: center;
+
+    padding: 0rem var(--margin1);
+    backdrop-filter: saturate(1.8) blur(20px);
+    background-attachment: scroll;
+}
+header button h3    {
+    margin-bottom: 0;
+}
+
+button  {
+    background: none;
+    border:none;
+    box-shadow:none;
+    border-radius:0;
+    padding:0;
+    overflow:visible;
+    cursor:pointer;
+}
+
+main {
+    position: absolute;
+    top: 0;
+    display: flex;
+    gap: 1.2rem;
     height: 100vh;
     width: 100vw;
 }
 
+img {
+    display: flex;
+    object-fit: none;
+}
+
 #info-panel {
     flex: 1;
-    padding: 2rem;
-    background-color: white;
-    border-right: 1px solid black;
+    padding: var(--margin1);
     overflow-y: auto;
-}
-
-#info-panel h1 {
-    font-size: 1.8rem;
-    margin-bottom: 1rem;
-}
-
-#info-panel p {
-    margin-bottom: 2rem;
-    line-height: 1.5;
+    background-color: white;
+    overflow-x: hidden;
 }
 
 #detail {
-    font-size: 0.95rem;
-    line-height: 1.4;
+    overflow-y: auto;
+    max-height: 100vh;
+    scroll-behavior: smooth;
+}
+.scroll-fade {
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    width: 33.3%;
+    height: 6.4rem;
+    backdrop-filter: saturate(1.8) blur(5px);
+    pointer-events: none; /* 클릭 방해 안 되게 */
+}
+#main-info  {
+    height: calc(100vh - 12.8rem);
+    display: flex;
+    flex-direction: column;
+    justify-content: end;
+}
+#main-info h1 {
+    margin-bottom: 1.2rem;
+}
+#main-info button  {
+    color: blue;
+    text-align: start;
+    text-decoration: underline;
+}
+
+#about  {
+    display: none;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    margin-top: -33vh;
+    margin-left: -33vw;
+    width: 66vw;
+    height: 66vh;
+    position: fixed;
+    background-color: rgba(0, 0, 255, 0.7);
+    color: white;
+    padding: 6.4rem;
+    backdrop-filter: saturate(1.8) blur(5px);
+    border-radius: var(--border-radius1);
+    border: 1px solid white;
+}
+
+#about-ratina   {
+    margin-top: 6.4rem;
+    display: flex;
+    justify-content: space-between;
+}
+
+#about-ratina-detail    {
+    width: 66.6%;
+}
+
+
+#custom-cursor {
+    position: fixed;
+    pointer-events: none;
+    z-index: 9999;
+    font-size: 1rem;
+    font-weight: bold;
+    color: black;
+    background: white;
+    padding: 2px 6px;
+    border-radius: 4px;
+    display: none;
+}
+
+.mainImg    {
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    padding: 6.4rem;
+}
+
+
+.title  {
+    height: calc(100vh - 15rem);
+    display: flex;
+    flex-direction: column;
+    justify-content: end;
+    margin-bottom: 6.4rem;
+}
+.title h1   {
+    font-size: 6.4rem;
+    line-height: 130%;
+    margin-bottom: 0;
+}
+.title h5 {
+    margin-bottom: 0;
+}
+.deviceImg  {
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    margin-bottom: 1.2rem;
+}
+.price  {
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    margin-bottom: 12.8rem;
+    flex-direction: column;
+    align-items: center;
+}
+.price h6 {
+    color: var(--second-color);
+}
+.display    {
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 9.6rem;
+}
+.display h3{
+    flex: 1;
+}
+.displayEx  {
+    display: flex;
+    flex-direction: column;
+    flex: 3;
+    flex-wrap: wrap;
+    justify-content: space-between;
+}
+
+.displayEx h5 {
+    flex: 1;
+    margin-bottom: 1.2rem;
+}
+.displayExInner {
+    display: flex;
+}
+.displayExInner h5 {
+    flex: 1;
+}
+.displayExInner div {
+    flex: 2;
+    margin-bottom: 3.2rem;
+}
+.displayExInner div p {
+    margin-bottom: 1.7rem;
 }
 
 #graph-panel {
-    flex: 1;
+    flex: 2;
+    height: calc(100vh);
     display: flex;
     justify-content: center;
     align-items: center;
-    background-color: white;
+    background-color: var(--bg1-color);
+    border-radius: 3.2rem;
 }
 
 svg {
     width: 100%;
     height: 100%;
-    background-color: #fff;
-    border: 1px solid #ccc;
-    box-shadow: 0 0 10px rgba(0,0,0,0.05);
+    background-color: var(--bg1-color);
+    border-radius: 3.2rem;
 }
 
 .axis-label {
@@ -121,4 +328,68 @@ svg {
 .point-label {
     font-size: 0.7rem;
     fill: #555;
+}
+
+.true-tone-h5   {
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+}
+/* True Tone */
+.true-tone-box {
+    width: 100%;
+    height: 6.4rem;
+    background: linear-gradient(to right,
+        #FFF1E0 0%,   /* 5000K */
+        #FFF4E4 12.5%,/* 5500K */
+        #F4F7FF 25%,  /* 6000K */
+        #E8F0FF 37.5%,/* 6500K */
+        #D3E5FF 50%,  /* 7000K */
+        #BCD9FF 62.5%,/* 7500K */
+        #A2CBFF 75%,  /* 8000K */
+        #8CBFFF 87.5%,/* 8500K */
+        #77B4FF 100%  /* 9000K */
+    );
+    border-radius: 1.6rem;
+    margin-bottom: 2.5rem;
+}
+
+/* Color Gamut */
+
+.sRGB { 
+    width: calc(16.6vw - 2rem);
+    height: calc(16.6vw - 2rem);
+    background: 
+        linear-gradient(to bottom right, white 0%, transparent 50%),
+        linear-gradient(to top right, green 0%, transparent 50%),
+        linear-gradient(to bottom left, red 0%, transparent 50%),
+        linear-gradient(to top left, blue 0%, transparent 50%);
+    background-blend-mode: screen;
+    border-radius: 1.6rem;
+}
+.p3 { 
+    width: calc(16.6vw - 2rem);
+    height: calc(16.6vw - 2rem);
+    background: 
+        linear-gradient(to bottom right, color(display-p3 1 1 1) 0%, transparent 50%),
+        linear-gradient(to top right, color(display-p3 0 1 0) 0%, transparent 50%),
+        linear-gradient(to bottom left, color(display-p3 1 0 0) 0%, transparent 50%),
+        linear-gradient(to top left, color(display-p3 0 0 1) 0%, transparent 50%);
+    background-blend-mode: screen;
+    border-radius: 1.6rem;
+}
+
+
+
+#resolution-label   {
+    position: fixed;
+    top: calc(50% - 20px);
+    left: 50%;
+    transform: translate(-50%, -100%);
+    z-index: 999;
+    opacity: 0;
+    pointer-events: none;
+    background: rgba(255, 255, 255, 0);
+    padding: 4px 8px;
+    text-align: center;
 }
